@@ -1,0 +1,21 @@
+{
+  "name": "map",
+  "version": "1.0.0",
+  "description": "a node js",
+  "main": "map.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sanjusonyy/javascriptpractive)"
+  },
+  "keywords": [
+    "sanjeev"
+  ],
+  "author": "sanjeev",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}

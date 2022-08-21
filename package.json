@@ -16,6 +16,8 @@
   "author": "sanjeev",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.19"
   }
 }

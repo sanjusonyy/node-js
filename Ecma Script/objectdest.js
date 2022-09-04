@@ -7,4 +7,12 @@ const biodata = {
     age : 30,
     deg : 'BCA'
 }
+let {name,age,deg} = biodata; //Object destructuring
 console.log(`My name is ${biodata.name}`);
+console.log(`My name is ${name} and my highest qualification is ${deg} and 
+ my age is ${age}`);
+
+
+
+
+
